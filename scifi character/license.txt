@@ -1,0 +1,11 @@
+Model Information:
+* title:	SciFi Character Model - FastLane
+* source:	https://sketchfab.com/3d-models/scifi-character-model-fastlane-e04d4f8606854c858ec6771d044b5693
+* author:	Lukas Guhse (https://sketchfab.com/guhselukas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SciFi Character Model - FastLane" (https://sketchfab.com/3d-models/scifi-character-model-fastlane-e04d4f8606854c858ec6771d044b5693) by Lukas Guhse (https://sketchfab.com/guhselukas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
