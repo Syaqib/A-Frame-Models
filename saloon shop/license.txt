@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly saloon
+* source:	https://sketchfab.com/3d-models/low-poly-saloon-da164ef5efae40ba9d055e813b7f5839
+* author:	Ivan Norman (https://sketchfab.com/vanidza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly saloon" (https://sketchfab.com/3d-models/low-poly-saloon-da164ef5efae40ba9d055e813b7f5839) by Ivan Norman (https://sketchfab.com/vanidza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
