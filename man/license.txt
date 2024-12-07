@@ -1,0 +1,11 @@
+Model Information:
+* title:	Man
+* source:	https://sketchfab.com/3d-models/man-d91475da67924946b3b454daa17639a3
+* author:	Mcyborg (https://sketchfab.com/Mcyborg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Man" (https://sketchfab.com/3d-models/man-d91475da67924946b3b454daa17639a3) by Mcyborg (https://sketchfab.com/Mcyborg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
